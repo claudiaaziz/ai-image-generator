@@ -65,3 +65,22 @@
   background: #E49595;
   cursor: pointer;
 }
+
+.loading-bar {
+  width: 0px;
+  height: 8px;
+  background: #E49595;
+}
+
+.loading-bar-full {
+  width: 512px;
+  transition: 11s;
+}
+
+.loading-text {
+  font-size: 18px;
+}
+
+.display-none {
+  display: none;
+}
